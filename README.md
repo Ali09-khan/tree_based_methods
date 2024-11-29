@@ -1,4 +1,4 @@
-#Random Forest and AdaBoost
+# Random Forest and AdaBoost
 
 This project demonstrates the use of ensemble learning methods, specifically **Random Forest** and **AdaBoost**, for classification tasks. It includes hyperparameter tuning, model evaluation, and visualizations to showcase the impact of various parameters on model performance.
 ## Project Overview
